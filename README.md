@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kececibora
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , boraizzet0@gmail.com
 
