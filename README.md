@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kececibora
-- 👀 I’m interested in ...
+- 👀 I’m interested in Go/Baduk
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , boraizzet0@gmail.com
 
 <!---
