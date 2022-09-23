@@ -1,11 +1,11 @@
 <img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="150px">
 
-### I'm Bora 
+## Hey! I'm Bora. 
+### Frontend Developer
 <br/>
-<br/>
-<br/>
+
+
 <hr/>
-##<font color="blue">Frontend Developer`<code/>`</font>
 
 ### You can also reach me :
 
