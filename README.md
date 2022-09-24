@@ -2,8 +2,8 @@
 
 ## Hey! I'm Bora. 
 ### Frontend Developer
++ www.loremcolor.com 
 
-<br/>
 <hr/>
 
 ### You can also reach me :
