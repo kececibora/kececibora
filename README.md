@@ -2,6 +2,7 @@
 
 ## Hey! I'm Bora. 
 ### Frontend Developer
+I am currently developing my self on React.Js.
 + www.loremcolor.com
 
 <hr/>
