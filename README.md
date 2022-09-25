@@ -2,7 +2,7 @@
 
 ## Hey! I'm Bora. 
 ### Frontend Developer
-+ <a href="www.loremcolor.com" target="_blank">www.loremcolor.com</a> 
++ www.loremcolor.com
 
 <hr/>
 
