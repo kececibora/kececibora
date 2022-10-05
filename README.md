@@ -3,7 +3,9 @@
 ## Hey! I'm Bora. 
 ### Frontend Developer
 #### I am currently developing my self on React.Js.
-+ www.loremcolor.com
+#### Also, I share my learning notes on Medium. If you want to have a look: <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>
+
+<a href="www.loremcolor.com" align="right" target="_blank" > www.loremcolor.com <img  width="32" src="https://images.unsplash.com/photo-1581079289196-67865ea83118?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" > </a>
 
 <hr/>
 
