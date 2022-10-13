@@ -3,7 +3,13 @@
 ## Hey! I'm Bora. 
 ### Frontend Developer
 #### I am currently developing my self on React.Js.
-#### Also, I share my learning notes on Medium. If you want to have a look: <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>
+
+<hr/>
+
+#### Also, I share my learning notes on <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>. If you want to have a look: 
+* <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb">React Learning Notes</a>
+* <a href="https://medium.com/@borakececi/socket-io-for-react-eda229188a93">Socket.io for React</a>
+
 
 #### Can't decide what color you should use?   <a target="_blank" href="https://loremcolor.com" align="right"  >Lorem Ipsum Color <img  width="32" src="https://cdn-icons-png.flaticon.com/512/2661/2661145.png" > </a>
 
