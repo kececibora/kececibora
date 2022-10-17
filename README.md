@@ -38,7 +38,7 @@
 <img src="https://play-lh.googleusercontent.com/CiGs15N1e1tXrSnVLEY9jOnKi1oNzPQNRjqhR8fXE0pnu_bRyNmfc8xXr2VQUJTfJ9A=s48-rw" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="35" align="left">
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="35" align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="35" align="left">
+
 
 
 
