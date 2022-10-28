@@ -21,7 +21,7 @@
 [<img  width="32" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1672272000&v=beta&t=ei85Z6CHnJE8bkOHKPZMxXU69jWT4PSs-DuDFCm60rw" target="_blank" align="left">][linkedin]
 <a href="mailto:boraizzet0@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
 <a href="https://stackoverflow.com/users/19469031/bora-ke%c3%a7eci"><img  width="32" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" target="_blank" align="left" ></a>
-
+<a href="https://www.codewars.com/users/borakececi"><img  width="32" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" target="_blank" align="left" ></a>
 
 <br/>
 <hr/>
