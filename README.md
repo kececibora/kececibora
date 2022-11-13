@@ -37,12 +37,16 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="35" align="left">
+<img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="35" align="left">
 <img src="https://play-lh.googleusercontent.com/CiGs15N1e1tXrSnVLEY9jOnKi1oNzPQNRjqhR8fXE0pnu_bRyNmfc8xXr2VQUJTfJ9A=s48-rw" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="35" align="left">
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="35" align="left">
+<img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" width="35" align="left">
+<img src="https://logodownload.org/wp-content/uploads/2015/05/cpanel-logo-0.png" width="35" align="left">
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="35" align="left">
 
 
 
