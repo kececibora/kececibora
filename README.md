@@ -3,7 +3,7 @@
 
 ## Hey! I'm Bora. 
 ### Frontend Developer
-#### I am currently developing my self on React.Js and Node.js
+#### I am currently developing myself on React.Js and Node.js
 
 
 <hr/>
