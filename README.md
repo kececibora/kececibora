@@ -8,7 +8,9 @@
 
 <hr/>
 
-### Also, I share my learning notes on <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>. If you want to have a look: 
+### Also, I share my learning notes on <a href="https://medium.com/@borakececi"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>. If you want to have a look: 
+
+* <a href="https://medium.com/@borakececi/flutter-tips-for-beginners-c19c3ed243bb">Flutter Tips for Beginners</a>
 * <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb">React Learning Notes</a>
 * <a href="https://medium.com/@borakececi/socket-io-for-react-eda229188a93">Socket.io for React</a>
 
