@@ -3,7 +3,7 @@
 
 ## Hey! I'm Bora. 
 ### Frontend Developer
-#### I am currently developing myself on React.js and Node.js
+#### I am currently developing myself on Flutter and React!
 
 
 <hr/>
