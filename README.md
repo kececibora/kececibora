@@ -17,7 +17,7 @@
 <br/>
 
 ### My Projects :
-* Professional member training assignment interface with website. <a target="_blank" href="https://fitbodyclub.xyz/" align="right"  > Gym App   </a><img  width="26" src="https://cdn-icons-png.flaticon.com/512/563/563828.png" >
+* Professional member training assignment interface with website. <a target="_blank" href="https://fitbodyclub.netlify.app/" align="right"  > Gym App   </a><img  width="26" src="https://cdn-icons-png.flaticon.com/512/563/563828.png" >
 * Nature-friendly, Covid-free and Fast   <a target="_blank" href="https://qrmenuler.netlify.app/" align="right"  >Qr Menuler  </a><img  width="32" src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" >
 * Can't decide what color you should use?   <a target="_blank" href="https://loremcolor.com" align="right"  >Lorem Ipsum Color  </a><img  width="26" src="https://cdn-icons-png.flaticon.com/512/2661/2661145.png" >
 
