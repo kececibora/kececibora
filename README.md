@@ -2,8 +2,8 @@
 
 
 ## Hey! I'm Bora. 
-### Frontend Developer
-#### I am currently working as a Flutter Developer.
+### Mobile Application Developer
+#### I am currently working as a Flutter Developer and learning Swift!
 
 
 <hr/>
