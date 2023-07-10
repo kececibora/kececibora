@@ -3,14 +3,13 @@
 
 ## Hey! I'm Bora. 
 ### Mobile Application Developer
-#### I am currently working as a Flutter Developer and learning Swift!
+#### I am currently working as a Flutter Developer !
 
 
 <hr/>
 
 ### Also, I share my learning notes on <a href="https://medium.com/@borakececi"><img  height="26" src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.png" target="_blank"  ></a>. If you want to have a look: 
 
-* <a href="https://medium.com/@borakececi/flutter-tips-for-beginners-c19c3ed243bb">Flutter Tips for Beginners</a>
 * <a href="https://medium.com/@borakececi/react-learning-notes-ca9e7a221cdb">React Learning Notes</a>
 * <a href="https://medium.com/@borakececi/socket-io-for-react-eda229188a93">Socket.io for React</a>
 
@@ -42,14 +41,7 @@
 <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35" align="left">
 <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" width="35" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="35" align="left">
-<img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="35" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35" align="left">
 <img alt="firebase" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="35" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="35" align="left">
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="35" align="left">
-<img src="https://play-lh.googleusercontent.com/CiGs15N1e1tXrSnVLEY9jOnKi1oNzPQNRjqhR8fXE0pnu_bRyNmfc8xXr2VQUJTfJ9A=s48-rw" width="35" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="35" align="left">
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="35" align="left">
 <img src="https://logodownload.org/wp-content/uploads/2015/05/cpanel-logo-0.png" width="35" align="left">
 <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" width="35" align="left">
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="35" align="left">
